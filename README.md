@@ -1,11 +1,10 @@
  Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> 
 
 
-![Adia](https://github.com/user-attachments/assets/26c54013-c04a-435a-9eac-1013dff229c3)
+![Navia]()
 
 
-
-Hola bienvenido, yo soy Adia soy diseñador UX/UI apasionado con la tecnologia, Me considero una persona proactiva que siempre toma la iniciativa, me adapto muy facil ante cualquier ambiente de trabajo y siempre estoy dispuesto a ayudar en cualquier trabajo que se me solicite.
+Hola bienvenido, yo soy Navi soy diseñador UX/UI apasionado con la tecnologia, Me considero una persona proactiva que siempre toma la iniciativa, me adapto muy facil ante cualquier ambiente de trabajo y siempre estoy dispuesto a ayudar en cualquier trabajo que se me solicite.
 
 ---
 
@@ -36,8 +35,6 @@ Aquí están algunas de las tecnologías con las que trabajo:
 ------
 
   ### 📊 My Stats
-![Adia's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheTanukiMDK&show_icons=true&theme=black_pine&title_color=FFFFFF&icon_color=5E00C4&text_color=E2D6FF&bg_color=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTanukiMDK&layout=compact&theme=black_pine&title_color=FFFFFF&text_color=E2D6FF&bg_color=000000)
 
 
 </div>
