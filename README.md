@@ -1,7 +1,7 @@
  Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> 
 
 
-![Navia]()
+Nuevo banner en proceso..
 
 
 Hola bienvenido, yo soy Navi soy diseñador UX/UI apasionado con la tecnologia, Me considero una persona proactiva que siempre toma la iniciativa, me adapto muy facil ante cualquier ambiente de trabajo y siempre estoy dispuesto a ayudar en cualquier trabajo que se me solicite.
@@ -29,13 +29,12 @@ Aquí están algunas de las tecnologías con las que trabajo:
 *   **Proyectos Escolares** en Universidad Tecnologia de Cancun UT (Sept 2022 - Presente)
     *   Diseño de interfaces de usuario.
     *   Desarrollo FrontEnd de proyectos.
-*   **Cluster Soporte de IT** en Hilton Cancun, an All-Inclusive Resort & Waldorf Astoria Rivera Maya (May 2025 - Ago 2025)
+*   **Cluster Practicante de IT** en Hilton Cancun, an All-Inclusive Resort & Waldorf Astoria Rivera Maya (May 2025 - Ago 2025)
     *   Soporte de sistemas del hotel, atencion a usuarios, apoyo a diferentes actividades de IT.
   
 ------
 
-  ### 📊 My Stats
-
+![xd]( https://raw.githubusercontent.com/ikabeee/ikabeee/output/snake.svg)
 
 </div>
 </body>
